@@ -7,7 +7,7 @@ from trans import speak
 # Set page configuration
 st.set_page_config(
     page_title="Grade Guru AI Examiner",
-    page_icon="./grade-guru.png",
+    page_icon="./grade-guru.png", 
     layout="wide"
 )
 
