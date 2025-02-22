@@ -8,7 +8,7 @@ def format_prompt_1(StudentAnswer,TeacherAnswer,TotalMarks):
      
     Providing you Student Answer and Teacher's Answer below : 
 
-    You Have to provide below details in brief : 
+    You Have to provide below details in brief :  
     1. Missing Points : The point by point (in formatted way each point in newline) which are missing in student answer , but present in teacher's answer
     2. Bluff Points : The point by point (in formatted way each point in newline) which are present in student answer, but not in teacher's answer   
     3. Student Marks : Highlight the Student's Marks based on rules given below.
