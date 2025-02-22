@@ -6,7 +6,7 @@
 # import torch
 import streamlit as st
 import time
-import textwrap
+import textwrap 
 # from translator import translate
 
 # def speaking_icon(speaking_thread):
