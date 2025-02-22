@@ -11,7 +11,7 @@ This "Grade Guru :-The AI Examiner," allows teachers to analyze student answers 
 1. **Upload Student Answer Photo**: Upload an image of the student's answer.
 2. **Enter Student Answer Text**: Enter the extracted text from the uploaded image.
 3. **Enter Teacher's Answer**: Input the correct answer from the teacher.
-4. **Total Marks of Question**: Enter the total marks for the question.
+4. **Total Marks of Question**: Enter the total marks for the question. 
 
 ## Getting Started
 ### Installation
